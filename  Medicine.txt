@@ -1,0 +1,10 @@
+Paracetamol/100/5000
+Ibuprofeno/300/3990
+Nastizol/25/2500
+VitaminaC/650/2990
+Omeprazol/69/6990
+Loratadina/2/3500
+Amoxicilina/54/5500
+Metformina/70/4560
+Diazepam/600/8000
+Salbutamol/430/5450
